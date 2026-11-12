@@ -1,10 +1,10 @@
 {
-  "name": "Feira de Ciências",
-  "school": "",
-  "class": "",
+  "name": "Amostra Científica",
+  "school": "Municipal Vereador João Bosco Ribeiro",
+  "class": "9º E",
   "date": "",
   "time": "",
   "location": "",
   "address": "",
-  "mapUrl": ""
+  "mapUrl": "<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1965.2522664358205!2d-38.22010409648128!3d-9.407845172088354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x70931981fd4d90b%3A0x6df0a8f1cb7f7b7c!2sEscola%20Municipal%20Jo%C3%A3o%20Bosco%20Ribeiro!5e1!3m2!1spt-BR!2sbr!4v1794493436468!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>"
 }
