@@ -1,0 +1,18 @@
+{
+  "version": "0.5.1",
+  "site": {
+    "title": "Medicina personalizada",
+    "subtitle": "Exposição científica digital",
+    "theme": "Genética: como a ciência explica a vida e transforma o futuro",
+    "publicUrl": ""
+  },
+  "media": {
+    "mode": "auto",
+    "cloudinary": {
+      "cloudName": "",
+      "imageTransformation": "c_limit",
+      "videoTransformation": "q_auto",
+      "autoFormatQuality": true
+    }
+  }
+}
